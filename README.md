@@ -32,11 +32,13 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanmaysangwan&show_icons=true&theme=tokyonight&hide_border=true"></img>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanmaysangwan&theme=tokyonight"></img>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmaysangwan&layout=compact&theme=tokyonight&hide_border=true"></img>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanmaysangwan&theme=tokyonight"></img>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=tanmaysangwan&theme=tokyonight&hide_border=true"></img>
+<br><br>
+
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanmaysangwan&theme=tokyonight"></img>
 
 </div>
 
