@@ -32,9 +32,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanmaysangwan&theme=tokyonight"></img>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanmaysangwan&theme=tokyonight"></img>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanmaysangwan&theme=tokyonight"></img><img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanmaysangwan&theme=tokyonight"></img>
 
 <br><br>
 
