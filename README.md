@@ -66,15 +66,15 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://www.linkedin.com/in/tanmay-sangwan/">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://instagram.com/your-instagram">
+<a href="https://www.instagram.com/tanmay_sangwan/">
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:tanmaysangwan2006@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
