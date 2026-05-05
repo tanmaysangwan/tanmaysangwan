@@ -66,9 +66,9 @@
 
 * Data Structures & Algorithms
 * System Design
-* Backend Engineering
-* App Development
-* Machine Learning
+* Database Management Systems
+* Mobile App Development
+* AI / Machine Learning
 
 ---
 
